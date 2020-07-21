@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "SUPFAM",
+    "default" : true,
+    "package" : "SUPFAM",
+    "versionName" : "SUPFAM",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "48.0",
+  "packageAliases" : {
+    "SUPFAM" : "0Ho6g000000PBGbCAO",
+    "SUPFAM@1.0.0.0" : "04t6g000008arkIAAQ"
+  }
+}
